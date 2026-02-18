@@ -8,6 +8,7 @@
 🎓 Computer Science @ UMass Lowell (Class of 2026)  
 🎨 Minor in Graphic Design & Mathematics  
 🌐 [lucasaurelio.com](https://lucasaurelio.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucas-aurelio-n) 
 
 I build clean, responsive, production-ready web applications that focus on user experience, performance, and accessibility.
